@@ -1,9 +1,0 @@
-User-Agent: *
-Disallow: /page1818946.html
-Disallow: /page1819272.html
-Disallow: /header
-Disallow: /page1819605.html
-Disallow: /oops
-Disallow:
-Sitemap: http://owndesignstudio.com/sitemap.xml
-Host: owndesignstudio.com
