@@ -1,0 +1,88 @@
+ErrorDocument 403 /page1819605.html
+ErrorDocument 404 /page1819605.html
+
+DirectoryIndex page881264.html
+
+RewriteEngine On
+
+RewriteRule ^allopizza$ page895304.html [NC]
+RewriteRule ^allopizza/$ page895304.html [NC]
+
+RewriteRule ^kryakk$ page932586.html [NC]
+RewriteRule ^kryakk/$ page932586.html [NC]
+
+RewriteRule ^syndrome$ page993220.html [NC]
+RewriteRule ^syndrome/$ page993220.html [NC]
+
+RewriteRule ^cassiopeia$ page1706588.html [NC]
+RewriteRule ^cassiopeia/$ page1706588.html [NC]
+
+RewriteRule ^wanttoeat$ page1759889.html [NC]
+RewriteRule ^wanttoeat/$ page1759889.html [NC]
+
+RewriteRule ^royalcourtyard$ page1763177.html [NC]
+RewriteRule ^royalcourtyard/$ page1763177.html [NC]
+
+RewriteRule ^reebok$ page1767499.html [NC]
+RewriteRule ^reebok/$ page1767499.html [NC]
+
+RewriteRule ^banking$ page1767793.html [NC]
+RewriteRule ^banking/$ page1767793.html [NC]
+
+RewriteRule ^the$ page1767976.html [NC]
+RewriteRule ^the/$ page1767976.html [NC]
+
+RewriteRule ^weathervane$ page1768622.html [NC]
+RewriteRule ^weathervane/$ page1768622.html [NC]
+
+RewriteRule ^militari$ page1778312.html [NC]
+RewriteRule ^militari/$ page1778312.html [NC]
+
+RewriteRule ^bhsad$ page1778404.html [NC]
+RewriteRule ^bhsad/$ page1778404.html [NC]
+
+RewriteRule ^myplanet$ page1785340.html [NC]
+RewriteRule ^myplanet/$ page1785340.html [NC]
+
+RewriteRule ^brother$ page1785422.html [NC]
+RewriteRule ^brother/$ page1785422.html [NC]
+
+RewriteRule ^centergerarddepardieu$ page1785487.html [NC]
+RewriteRule ^centergerarddepardieu/$ page1785487.html [NC]
+
+RewriteRule ^shoppingdistrict$ page1785623.html [NC]
+RewriteRule ^shoppingdistrict/$ page1785623.html [NC]
+
+RewriteRule ^normandianeman$ page1785678.html [NC]
+RewriteRule ^normandianeman/$ page1785678.html [NC]
+
+RewriteRule ^vitaplus$ page1786870.html [NC]
+RewriteRule ^vitaplus/$ page1786870.html [NC]
+
+RewriteRule ^swisskitchen$ page1787162.html [NC]
+RewriteRule ^swisskitchen/$ page1787162.html [NC]
+
+RewriteRule ^primecinema$ page1788584.html [NC]
+RewriteRule ^primecinema/$ page1788584.html [NC]
+
+RewriteRule ^ninsight$ page1792555.html [NC]
+RewriteRule ^ninsight/$ page1792555.html [NC]
+
+RewriteRule ^ctmgroup$ page1793363.html [NC]
+RewriteRule ^ctmgroup/$ page1793363.html [NC]
+
+RewriteRule ^trueflofer$ page1797284.html [NC]
+RewriteRule ^trueflofer/$ page1797284.html [NC]
+
+RewriteRule ^gerarddepardieu$ page1797872.html [NC]
+RewriteRule ^gerarddepardieu/$ page1797872.html [NC]
+
+RewriteRule ^info$ page1800040.html [NC]
+RewriteRule ^info/$ page1800040.html [NC]
+
+RewriteRule ^header$ page1819272.html [NC]
+RewriteRule ^header/$ page1819272.html [NC]
+
+RewriteRule ^oops$ page1819605.html [NC]
+RewriteRule ^oops/$ page1819605.html [NC]
+
